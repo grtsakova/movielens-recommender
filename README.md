@@ -20,13 +20,14 @@ This project focuses on building and evaluating recommender systems using a movi
 
 ## Data
 
-The project uses the ml-10M100K dataset, which is a part of the MovieLens datasets provided by GroupLens Research. This dataset contains 10 million ratings and 100,000 tag applications applied to 10,000 movies by 72,000 users. The data is structured to include:
+The project uses the [ml-10M100K](https://grouplens.org/datasets/movielens/10m/) dataset, which is a part of the MovieLens datasets provided by GroupLens Research. This dataset contains 10 million ratings and 100,000 tag applications applied to 10,000 movies by 72,000 users. The data is structured to include:
 - User IDs
 - Movie IDs
 - Ratings (on a scale of 0.5 to 5.0)
 - Timestamps (when the ratings were given)
 - Tagging information
 
+This and other GroupLens data sets are publicly available for download at [GroupLens Datasets](https://grouplens.org/datasets/).
 
 ## Results
 
